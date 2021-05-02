@@ -5,6 +5,12 @@ using UnityEngine;
 
 public class MGPumCheatCodeRandomAIController : MGPumStudentAIPlayerController
 {
+    /*
+
+    AUFGABE 2
+
+    */
+
 
     public const string type = "CC Random";
 
